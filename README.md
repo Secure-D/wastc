@@ -8,6 +8,9 @@ This document aims to assist penetration tester to cover any possible weaknesses
 
 For developer, this document will also be useful to study each weaknesses and vulnerabilities and improve code quality by following the guidelines.
 
+## Key words
+We decide to use same key words to indicate requirement levels standard with [RFC2119](https://tools.ietf.org/html/rfc2119). When the document says "MUST", it is an absolute requirement. This is to emphasize the importance of the security in that review topic.
+
 ## Recommendation and Useful links
 This checklist maybe similar to OWASP and CWE. We see it's different in details and does NOT replace OWASP and CWE by any means. We recommend you to study OWASP and CWE documentation as well.
 
