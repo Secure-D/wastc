@@ -4,7 +4,7 @@ Secure-D Web Application Penetration Test Checklist summarizes well-known weakne
 This is not a Working Paper that Secure-D uses to serve the web application penetration test service but rather the public contribution version.
 
 ## Objective
-This document aims to assist penetration tester to cover any possible weaknesses, vulnerabilities and policy compliance. As a result, it may contain duplicate or similar issue in different review topic and could be excessive for many penetration test project. It is advised that the tester reviews the whole document and decide to test on more important topic within the limited time.
+This document aims to assist penetration tester to cover any possible weaknesses, vulnerabilities and policy compliance. As a result, it may contain duplicates or similar issues in different review topics and could be excessive for many penetration test project. It is advised that the tester reviews the whole document and decide to test on more important topics within the limited time.
 
 For developer, this document will also be useful to study each weaknesses and vulnerabilities and improve code quality by following the guidelines.
 
