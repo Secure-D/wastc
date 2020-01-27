@@ -1,5 +1,5 @@
 # waptc
-Secure-D Web Application Penetration Test Checklist summarizes well-known weaknesses, vulnerabilities and best practices into review topics with short description and recommendation. Its objective is to aid penetration tester in reviewing the web application thoroughly.
+Secure-D Web Application Security Test Checklist summarizes well-known weaknesses, vulnerabilities and best practices into review topics with short description and recommendation. Its objective is to aid penetration tester in reviewing the web application thoroughly.
 
 This is not a Working Paper that Secure-D uses to serve the web application penetration test service but rather the public contribution version.
 
